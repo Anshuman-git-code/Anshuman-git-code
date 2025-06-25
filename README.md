@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Anshuman Mohapatra
 **A passionate Cloud Engineer || DevOps Engineer || Docker | Kubernetes | Jenkins**
 
-Portfolio 👉 ✉️ **[anshuman@live.com](https://anshuman-git-code.github.io/Portfolio/)**  
+Portfolio 👉  **[anshuman@live.com](https://anshuman-git-code.github.io/Portfolio/)**  
 Email 👉 ✉️ **[anshuman.mohapatra04@gmail.com](mailto:anshuman.mohapatra04@gmail.com)**  
 
 ---
