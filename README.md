@@ -2,7 +2,7 @@
 **A passionate Cloud Engineer || DevOps Engineer || Docker | Kubernetes | Jenkins**
 
 PORTFOLIO 👉  **[anshuman@live.com](https://anshuman-git-code.github.io/Portfolio/)**  
-EMAIL 👉  **[anshuman.mohapatra04@gmail.com](mailto:anshuman.mohapatra04@gmail.com)**  
+EMAIL 👉  **[anshuman.mohapatra04@gmail.com](mailto:anshuman.mohapatra04@gmail.com)/[anshumanmohapatra605@gmail.com](mailto:anshumanmohapatra605@gmail.com)**  
 
 ---
 
