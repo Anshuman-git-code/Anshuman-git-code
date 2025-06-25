@@ -71,7 +71,7 @@ Email 👉 ✉️ **[anshuman.mohapatra04@gmail.com](mailto:anshuman.mohapatra04
 ---
 
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=Anshuman-git-code&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Stars,Repositories,Commits,Organizations)
+![](https://github-profile-trophy.vercel.app/?username=Anshuman-git-code&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Stars,Repositories,Commits,Organizations,Languages)
 
 ---
 
