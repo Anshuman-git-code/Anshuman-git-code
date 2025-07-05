@@ -4,6 +4,11 @@
 PORTFOLIO 👉  **[anshuman@live.com](https://portfolio-streamlit.onrender.com)**  
 EMAIL 👉  **[anshuman.mohapatra04@gmail.com](mailto:anshuman.mohapatra04@gmail.com) / [anshumanmohapatra605@gmail.com](mailto:anshumanmohapatra605@gmail.com)**  
 
+## 🧑‍💻 About Me
+🎂 **Born:** May 6, 2004  
+🌟 **Age:** 21 years old  
+🎯 **Focus:** Cloud & DevOps Engineering
+
 ---
 
 # 💻 Tech Stack:
