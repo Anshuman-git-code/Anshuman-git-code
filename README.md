@@ -1,230 +1,328 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey there, I'm Anshuman Mohapatra!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Anshuman%20Mohapatra&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Infrastructure%20Wizard&descAlignY=58&descAlign=62&descSize=20" />
+</div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=21+Years+Old+%7C+DevOps+Engineer+%7C+Dream+Architect;Where+others+see+dreams%2C+I+see+destiny+%F0%9F%9A%80;Hard+work+has+no+substitute+%F0%9F%92%AA;Building+infrastructure+that+scales+dreams+%F0%9F%8C%9F;Racing+to+give+parents+extraordinary+life+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=🚀+Building+Scalable+Cloud+Infrastructure;🔧+Automating+CI%2FCD+Pipelines;☸️+Kubernetes+%26+Microservices+Expert;🛡️+DevSecOps+%26+Security+Automation;🌟+Passionate+About+Innovation" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif">
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</div>
-
-## 🎯 The Story Behind Every Commit
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-```javascript
-const anshuman = {
-    age: 21 ( 6 May 2004 ),
-    location: "Bhubaneswar, Odisha, India",
-    education: "Final Year B.Tech CSE @ ITER, SOA University",
-    mission: "Give parents extraordinary life through relentless excellence",
-    philosophy: "Transform impossible into inevitable",
-    sleepOptimization: "4-5 hours (calculated risk)",
-    
-    dailyRoutine: {
-        code: "Building scalable infrastructure",
-        learn: "Cloud native technologies",
-        fitness: "6 years of disciplined training",
-        nature: "Mountains for mental recharging",
-        connect: "Especially with elderly strangers"
-    },
-    
-    coreValues: [
-        "Family first always",
-        "Hard work has no substitute",
-        "Continuous growth beyond comfort zones",
-        "Make existence wonderful for everyone"
-    ]
-};
-```
-
----
-
-## 🔥 Current Focus & Expertise
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
 <div align="center">
-
-### 🛠️ Tech Stack
-
-#### ☁️ Cloud & DevOps
-<p>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
-<img src="https://img.shields.io/badge/apache%20maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-<img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube"/>
-<img src="https://img.shields.io/badge/OWASP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/>
-<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
-</p>
-
-#### 🧱 Backend Development
-<p>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/🦜_LangChain-FF6600?style=for-the-badge" alt="LangChain"/>
-<img src="https://img.shields.io/badge/🤗_Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face"/>
-</p>
-
-#### 🎨 Frontend Development
-<p>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
-#### 🧩 Database & Messaging
-<p>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
-</p>
-
-#### 🔧 DevSecOps & Quality Tools
-<p>
-<img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube"/>
-<img src="https://img.shields.io/badge/OWASP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/🛡️_Trivy-1904DA?style=for-the-badge" alt="Trivy"/>
-</p>
-
-#### 🌐 Web & Server Tools
-<p>
-<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-<img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Alpine%20Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white" alt="Alpine Linux"/>
-</p>
-
-#### 📦 System Architecture
-<p>
-<img src="https://img.shields.io/badge/microservices-%23FF6B6B.svg?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices"/>
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/☁️_Cloud%20Native-4285F4?style=for-the-badge" alt="Cloud Native"/>
-</p>
-
-#### 📹 Media & Content
-<p>
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"/>
-<img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" alt="Audacity"/>
-<img src="https://img.shields.io/badge/📝_Content%20Creation-FF6B35?style=for-the-badge" alt="Content Creation"/>
-</p>
-
-#### 🧠 Development Tools & Practices
-<p>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/🚀_Performance%20Optimization-00D4AA?style=for-the-badge" alt="Performance Optimization"/>
-</p>
-
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="coding animation"/>
+      </td>
+      <td width="50%">
+        <h3>🌟 The Journey</h3>
+        <blockquote>
+          <em>"At 21, I stand at the precipice of my own making—a young visionary fueled by what others might call ambition, but what I know to be destiny."</em>
+        </blockquote>
+        
+        <h3>📊 Quick Stats</h3>
+        <ul>
+          <li>🎂 <strong>Born:</strong> May 6, 2004 (21 years old)</li>
+          <li>🎓 <strong>Education:</strong> B.Tech CSE at ITER, SOA University</li>
+          <li>🏢 <strong>Role:</strong> DevOps Engineer & Cloud Architect</li>
+          <li>🌍 <strong>Location:</strong> India</li>
+          <li>💼 <strong>Portfolio:</strong> <a href="https://anshuman-git-code.github.io/Portfolio/">View Here</a></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-## 📊 GitHub Analytics & Achievements
-
 <div align="center">
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anshuman-git-code&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📈 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuman-git-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-git-code&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages">
-
-### 📊 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anshuman-git-code&theme=tokyo-night&hide_border=true)
-
+  <h3>🎯 Current Focus Areas</h3>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100px" alt="CI/CD">
+        <br><strong>🔄 CI/CD Automation</strong>
+        <br><em>Streamlining deployment pipelines</em>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="100px" alt="Cloud">
+        <br><strong>☁️ Cloud Infrastructure</strong>
+        <br><em>AWS, Azure & Kubernetes</em>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="100px" alt="Security">
+        <br><strong>🛡️ DevSecOps</strong>
+        <br><em>Security-first approach</em>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100px" alt="AI">
+        <br><strong>🤖 AI/ML Integration</strong>
+        <br><em>Intelligent automation</em>
+      </td>
+    </tr>
+  </table>
 </div>
-
----
-
-## 🚀 Featured Projects & Impact
-
-<div align="center">
-
-### 🏗️ Mission-Critical Builds
-
-| 🎯 **Project** | 🛠️ **Tech Stack** | 📊 **Impact** | 💝 **Personal Meaning** |
-|:---:|:---:|:---:|:---:|
-| **GitOps Architecture** | AWS, K8s, Argo CD | 60% deployment efficiency | More time for family |
-| **DevSecOps Pipeline** | Jenkins, OWASP, SonarQube | 100% security scanning | Protecting dreams |
-| **RAG AI Chatbot** | Python, Langchain, FAISS | Semantic search integration | Democratizing AI |
-| **Container Platform** | Docker, Kubernetes | 70% image size reduction | Efficiency in everything |
-
-</div>
-
----
-
-## 🌟 Life Philosophy & Values
-
-<div align="center">
-  
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding gif">
-
-</div>
-
-### 💭 Core Beliefs
-
-> **"At 21, I stand at the precipice of my own making—a young man fueled by what others might call delusion, but what I know to be destiny."**
-
-### 🎯 What Drives Me Every Day
-
-- **👨‍👩‍👧‍👦 Family First**: Every day that passes is a day I can't give back to my aging parents
-- **💰 Money Mindset**: Respect follows resources - I'll master it, not complain about it  
-- **🏔️ Nature Connection**: Mountains and forests recharge my creativity
-- **👴 Human Connection**: Meaningful conversations with elderly strangers
-- **🏃‍♂️ Urgency**: Racing against time with calculated sleep optimization
-
-### ⚡ My Superpower Years
-
-At 21, these are my peak performance years. I'm leveraging youth, energy, and relentless drive to build something extraordinary. My twenties aren't just about finding myself—they're about creating the future I want to live in.
-
----
-
-## 🤝 Connect & Collaborate
-
-<div align="center">
-
-**Ready to build something extraordinary together?**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-streamlit.onrender.com)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshuman.mohapatra04@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anshuman-git-code)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🎯 "Where others see dreams, I see destiny. Let's scale dreams into reality."
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<div align="center">
 
+### ☁️ Cloud & DevOps Mastery
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker,jenkins" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+</p>
+
+### 🔧 Programming & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,html,css,flask" />
+  <img src="https://img.shields.io/badge/🦜_LangChain-FF6600?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/🤗_Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face"/>
+</p>
+
+### 🛡️ Security & Quality
+<p>
+  <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube"/>
+  <img src="https://img.shields.io/badge/OWASP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+  <img src="https://img.shields.io/badge/🛡️_Trivy-1904DA?style=for-the-badge" alt="Trivy"/>
+  <img src="https://img.shields.io/badge/🔒_Security_First-FF6B6B?style=for-the-badge" alt="Security First"/>
+</p>
+
+### 🗄️ Databases & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,nginx,linux" />
+  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat"/>
+  <img src="https://img.shields.io/badge/Alpine%20Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white" alt="Alpine Linux"/>
+</p>
+
+### 🛠️ Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,maven" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+  <img src="https://img.shields.io/badge/🚀_GitOps-4285F4?style=for-the-badge" alt="GitOps"/>
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuman-git-code&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-git-code&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anshuman-git-code&theme=tokyonight&utcOffset=5.5" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshuman-git-code&theme=tokyo-night&bg_color=0D1117&color=60A5FA&line=60A5FA&point=60A5FA&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="35"> Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
+          <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" alt="DevSecOps">
+          <h3>🔒 DevSecOps Pipeline</h3>
+          <p><em>Complete security-integrated CI/CD pipeline</em></p>
+        </div>
+        
+        **🛠️ Tech Stack:**
+        <br>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=OWASP&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+        
+        **✨ Key Features:**
+        - 🔍 Automated security scanning
+        - 📊 Code quality analysis  
+        - 🛡️ Vulnerability detection
+        - 🚀 CI/CD integration
+        
+        **📈 Impact:** 40% reduction in security vulnerabilities
+      </td>
+      <td width="50%" valign="top">
+        <div align="center">
+          <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" alt="Code Platform">
+          <h3>🚀 Secure Code Execution Platform</h3>
+          <p><em>Multi-language containerized execution environment</em></p>
+        </div>
+        
+        **🛠️ Tech Stack:**
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+        
+        **✨ Key Features:**
+        - 🌐 Multi-language support
+        - 🔐 Container isolation
+        - ⚡ Real-time execution
+        - 🛡️ Security restrictions
+        
+        **📈 Impact:** 99.9% uptime with secure execution
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
+          <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="80" alt="Microservices">
+          <h3>✈️ Microservices Travel Platform</h3>
+          <p><em>Scalable travel booking system</em></p>
+        </div>
+        
+        **🛠️ Tech Stack:**
+        <br>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+        
+        **✨ Key Features:**
+        - 🏗️ Microservices architecture
+        - 🔒 Namespace isolation
+        - 💾 Persistent storage
+        - 🔍 Service discovery
+        
+        **📈 Impact:** 50% improved scalability
+      </td>
+      <td width="50%" valign="top">
+        <div align="center">
+          <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="80" alt="GitOps">
+          <h3>🎯 GitOps Deployment Pipeline</h3>
+          <p><em>Automated GitOps workflow system</em></p>
+        </div>
+        
+        **🛠️ Tech Stack:**
+        <br>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kind-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+        
+        **✨ Key Features:**
+        - 🔄 GitOps workflows
+        - 📈 99.9% uptime
+        - 🚀 Automated deployment
+        - 📊 Kubernetes dashboard
+        
+        **📈 Impact:** 60% deployment efficiency boost
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Achievements & Recognition
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80px" alt="achievement">
+        <br><strong>🏆 99.9% Uptime</strong>
+        <br><em>Production Systems</em>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80px" alt="achievement">
+        <br><strong>📈 60% Efficiency</strong>
+        <br><em>Deployment Improvement</em>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="80px" alt="achievement">
+        <br><strong>🛡️ 40% Less Vulnerabilities</strong>
+        <br><em>Security Enhancement</em>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="80px" alt="achievement">
+        <br><strong>🚀 10+ Projects</strong>
+        <br><em>Successfully Delivered</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anshuman-git-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/MIGbtLZksKBO8/giphy.gif" width="35"> Connect & Collaborate
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="400" alt="connect gif">
+</div>
+
+<div align="center">
+  <h3>🤝 Let's Build Something Amazing Together!</h3>
+  <p><em>Always open to discussing new opportunities and collaborations</em></p>
+  
+  <a href="https://anshuman-git-code.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/anshuman-mohapatra" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anshuman.mohapatra04@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Anshuman-git-code" target="_blank">
+    <img src="https://img.shields.io/badge/⭐_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>📊 Profile Statistics</h3>
+  <img src="https://komarev.com/ghpvc/?username=Anshuman-git-code&label=Profile%20Views&color=60A5FA&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Anshuman-git-code?label=Followers&style=for-the-badge&color=60A5FA" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Anshuman-git-code?affiliations=OWNER&label=Stars&style=for-the-badge&color=60A5FA" alt="GitHub Stars" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35"> Daily Motivation
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=💡+Innovation+is+the+currency+of+the+future;🚀+Building+tomorrow's+infrastructure+today;🔧+Automating+the+world,+one+pipeline+at+a+time;🌟+Where+DevOps+meets+endless+possibilities" alt="Motivation" />
 </div>
 
 ---
 
-## 👁️ Profile Views
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%" alt="footer gif">
+</div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Anshuman-git-code&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-**Thank you for visiting my profile! 🙏**
-
+<div align="center">
+  <h3>🙏 Thank You for Visiting!</h3>
+  <p><em>⭐️ From <a href="https://github.com/Anshuman-git-code">Anshuman-git-code</a> with ❤️</em></p>
+  <p><strong>🌟 If you found this profile interesting, please give it a star!</strong></p>
 </div>
