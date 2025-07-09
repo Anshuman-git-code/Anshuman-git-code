@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=🚀+Building+Scalable+Cloud+Infrastructure;🔧+Automating+CI%2FCD+Pipelines;☸️+Kubernetes+%26+Microservices+Expert;🛡️+DevSecOps+%26+Security+Automation;🌟+Passionate+About+Innovation" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif">
 </div>
 
@@ -28,7 +24,7 @@
         
         <h3>📊 Quick Stats</h3>
         <ul>
-          <li>🎂 <strong>Born:</strong> May 6, 2004 (21 years old)</li>
+          <li>🎂 <strong>Born:</strong> 6 May 2004 </li>
           <li>🎓 <strong>Education:</strong> B.Tech CSE at ITER, SOA University</li>
           <li>🏢 <strong>Role:</strong> DevOps Engineer & Cloud Architect</li>
           <li>🌍 <strong>Location:</strong> India</li>
@@ -278,10 +274,10 @@
   <h3>🤝 Let's Build Something Amazing Together!</h3>
   <p><em>Always open to discussing new opportunities and collaborations</em></p>
   
-  <a href="https://anshuman-git-code.github.io/Portfolio/" target="_blank">
+  <a href="https://portfolio-streamlit.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/anshuman-mohapatra" target="_blank">
+  <a href="https://linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:anshuman.mohapatra04@gmail.com">
@@ -305,10 +301,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=💡+Innovation+is+the+currency+of+the+future;🚀+Building+tomorrow's+infrastructure+today;🔧+Automating+the+world,+one+pipeline+at+a+time;🌟+Where+DevOps+meets+endless+possibilities" alt="Motivation" />
 </div>
 
 ---
