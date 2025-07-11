@@ -300,7 +300,7 @@
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35"> Daily Motivation
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Motivational Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Discipline%20outperforms%20motivation.%20Master%20your%20routine%2C%20own%20your%20future.&author=Anshuman" alt="Motivational Quote" />
 </div>
 
 ---
