@@ -1,320 +1,179 @@
+# Hi there! 👋 I'm Anshuman Mohapatra
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Anshuman%20Mohapatra&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Infrastructure%20Wizard&descAlignY=58&descAlign=62&descSize=20" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Native+Architecture+Enthusiast;Kubernetes+%26+CI%2FCD+Expert;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer GIF"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🚀 About Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+I'm a passionate **DevOps Engineer** currently pursuing B.Tech in Computer Science & Engineering at ITER, SOA University. I specialize in cloud-native technologies, container orchestration, and building scalable applications.
+
+- 🔭 Currently working on **Azure DevOps Migration** and **AWS Resource Management Tools**
+- 🌱 Learning advanced **FinOps** and **GitOps** practices
+- 💡 Passionate about **Infrastructure as Code** and **Microservices Architecture**
+- 📫 Reach me at: **anshuman.mohapatra04@gmail.com**
+- 🌐 Portfolio: [Visit My Portfolio](https://anshuman-git-code.github.io/Portfolio/)
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="coding animation"/>
-      </td>
-      <td width="50%">
-        <h3>🌟 The Journey</h3>
-        <blockquote>
-          <em>"At 21, I stand at the precipice of my own making—a young visionary fueled by what others might call ambition, but what I know to be destiny."</em>
-        </blockquote>
-        
-        <h3>📊 Quick Stats</h3>
-        <ul>
-          <li>🎂 <strong>Born:</strong> 6 May 2004 </li>
-          <li>🎓 <strong>Education:</strong> B.Tech CSE at ITER, SOA University</li>
-          <li>🏢 <strong>Role:</strong> DevOps Engineer & Cloud Architect</li>
-          <li>🌍 <strong>Location:</strong> India</li>
-          <li>💼 <strong>Portfolio:</strong> <a href="https://anshuman-git-code.github.io/Portfolio/">View Here</a></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF"/>
 </div>
 
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
 <div align="center">
-  <h3>🎯 Current Focus Areas</h3>
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100px" alt="CI/CD">
-        <br><strong>🔄 CI/CD Automation</strong>
-        <br><em>Streamlining deployment pipelines</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="100px" alt="Cloud">
-        <br><strong>☁️ Cloud Infrastructure</strong>
-        <br><em>AWS, Azure & Kubernetes</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="100px" alt="Security">
-        <br><strong>🛡️ DevSecOps</strong>
-        <br><em>Security-first approach</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100px" alt="AI">
-        <br><strong>🤖 AI/ML Integration</strong>
-        <br><em>Intelligent automation</em>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
-
+### 💻 Programming Languages
 <div align="center">
-
-### ☁️ Cloud & DevOps Mastery
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker,jenkins" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-</p>
-
-### 🔧 Programming & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,html,css,flask" />
-  <img src="https://img.shields.io/badge/🦜_LangChain-FF6600?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/🤗_Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face"/>
-</p>
-
-### 🛡️ Security & Quality
-<p>
-  <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube"/>
-  <img src="https://img.shields.io/badge/OWASP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
-  <img src="https://img.shields.io/badge/🛡️_Trivy-1904DA?style=for-the-badge" alt="Trivy"/>
-  <img src="https://img.shields.io/badge/🔒_Security_First-FF6B6B?style=for-the-badge" alt="Security First"/>
-</p>
-
-### 🗄️ Databases & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,nginx,linux" />
-  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat"/>
-  <img src="https://img.shields.io/badge/Alpine%20Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white" alt="Alpine Linux"/>
-</p>
-
-### 🛠️ Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,maven" />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
-  <img src="https://img.shields.io/badge/🚀_GitOps-4285F4?style=for-the-badge" alt="GitOps"/>
-</p>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
-
+### 🌐 Web Technologies
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuman-git-code&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</div>
+
+### 🤖 AI & Machine Learning
+<div align="center">
+  <img src="https://img.shields.io/badge/LangChain-%23121011.svg?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-%23FF6F00.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/FAISS-%23000000.svg?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-git-code&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anshuman-git-code&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Cloud Computing GIF"/>
+</div>
+
+## 🏆 Featured Projects
+
+### 🔄 Azure DevOps Migration – Voting App
+- **Tech Stack**: Azure DevOps, GitOps, CI/CD, Docker, Kubernetes
+- **Description**: Migrated multi-service application from GitHub Actions to Azure Pipelines with ACR + Kubernetes deployment
+
+### 📊 AWS Resource CLI Tool
+- **Tech Stack**: Bash, AWS CLI, Shell Scripting
+- **Description**: Built an interactive Bash CLI for managing 14+ AWS services to simplify auditing
+
+### 💰 FinOps Logging Cost Optimizer
+- **Tech Stack**: FinOps, CI/CD, AWS S3, Shell
+- **Description**: Reduced Jenkins logging costs by redirecting logs to S3 with FinOps automation
+
+### 🎬 Netflix Clone – Full Stack + K8s
+- **Tech Stack**: React, Node.js, Docker, Kubernetes, CI/CD
+- **Description**: React-Node app containerized & deployed via GitHub Actions to Kubernetes
+
+### 🧠 LangChain Chatbot API
+- **Tech Stack**: Python, Flask, LangChain, NLP
+- **Description**: Built contextual AI chatbot using Flask & LangChain with REST API backend
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="DevOps GIF"/>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshuman-git-code&theme=tokyo-night&bg_color=0D1117&color=60A5FA&line=60A5FA&point=60A5FA&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="35"> Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="center">
-          <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" alt="DevSecOps">
-          <h3>🔒 DevSecOps Pipeline</h3>
-          <p><em>Complete security-integrated CI/CD pipeline</em></p>
-        </div>
-        
-        **🛠️ Tech Stack:**
-        <br>
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=OWASP&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-        
-        **✨ Key Features:**
-        - 🔍 Automated security scanning
-        - 📊 Code quality analysis  
-        - 🛡️ Vulnerability detection
-        - 🚀 CI/CD integration
-        
-        **📈 Impact:** 40% reduction in security vulnerabilities
-      </td>
-      <td width="50%" valign="top">
-        <div align="center">
-          <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" alt="Code Platform">
-          <h3>🚀 Secure Code Execution Platform</h3>
-          <p><em>Multi-language containerized execution environment</em></p>
-        </div>
-        
-        **🛠️ Tech Stack:**
-        <br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-        
-        **✨ Key Features:**
-        - 🌐 Multi-language support
-        - 🔐 Container isolation
-        - ⚡ Real-time execution
-        - 🛡️ Security restrictions
-        
-        **📈 Impact:** 99.9% uptime with secure execution
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="center">
-          <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="80" alt="Microservices">
-          <h3>✈️ Microservices Travel Platform</h3>
-          <p><em>Scalable travel booking system</em></p>
-        </div>
-        
-        **🛠️ Tech Stack:**
-        <br>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-        
-        **✨ Key Features:**
-        - 🏗️ Microservices architecture
-        - 🔒 Namespace isolation
-        - 💾 Persistent storage
-        - 🔍 Service discovery
-        
-        **📈 Impact:** 50% improved scalability
-      </td>
-      <td width="50%" valign="top">
-        <div align="center">
-          <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="80" alt="GitOps">
-          <h3>🎯 GitOps Deployment Pipeline</h3>
-          <p><em>Automated GitOps workflow system</em></p>
-        </div>
-        
-        **🛠️ Tech Stack:**
-        <br>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kind-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-        
-        **✨ Key Features:**
-        - 🔄 GitOps workflows
-        - 📈 99.9% uptime
-        - 🚀 Automated deployment
-        - 📊 Kubernetes dashboard
-        
-        **📈 Impact:** 60% deployment efficiency boost
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Achievements & Recognition
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80px" alt="achievement">
-        <br><strong>🏆 99.9% Uptime</strong>
-        <br><em>Production Systems</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80px" alt="achievement">
-        <br><strong>📈 60% Efficiency</strong>
-        <br><em>Deployment Improvement</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="80px" alt="achievement">
-        <br><strong>🛡️ 40% Less Vulnerabilities</strong>
-        <br><em>Security Enhancement</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="80px" alt="achievement">
-        <br><strong>🚀 10+ Projects</strong>
-        <br><em>Successfully Delivered</em>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuman-git-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anshuman-git-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-git-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/MIGbtLZksKBO8/giphy.gif" width="35"> Connect & Collaborate
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="400" alt="connect gif">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anshuman-git-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
+## 📈 Contribution Graph
+
 <div align="center">
-  <h3>🤝 Let's Build Something Amazing Together!</h3>
-  <p><em>Always open to discussing new opportunities and collaborations</em></p>
-  
-  <a href="https://portfolio-streamlit.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshuman-git-code&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🎯 Current Focus
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Rocket GIF"/>
+</div>
+
+- 🔧 **Infrastructure as Code**: Mastering Terraform and GitOps workflows
+- ☁️ **Cloud Native**: Deepening expertise in Kubernetes and microservices
+- 💰 **FinOps**: Implementing cost optimization strategies
+- 🤖 **AI Integration**: Exploring LangChain and contextual AI applications
+- 🛡️ **Security**: Implementing secure CI/CD pipelines with SonarQube and Trivy
+
+## 🌟 Professional Experience
+
+### 💼 Financial Consultant – HDFC Life
+- Built communication and client management skills
+- Developed sales expertise and customer relationship management
+
+### 🎥 Content Creator & Editor
+- Created videos using Premiere Pro, DaVinci Resolve, Audacity
+- Boosted audio clarity by 95% with advanced noise reduction techniques
+
+## 🎓 Education
+
+**B.Tech - Computer Science & Engineering**  
+ITER, SOA University | 2022 - 2026
+
+**Senior Secondary, CBSE**  
+St. Xavier's High School | 2022
+
+**Secondary, CBSE**  
+DAV Public School | 2020
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://anshuman-git-code.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:anshuman.mohapatra04@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/Anshuman-git-code" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="tel:+917978294262">
+    <img src="https://img.shields.io/badge/Phone-%2300C853.svg?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
   </a>
 </div>
 
 <div align="center">
-  <h3>📊 Profile Statistics</h3>
-  <img src="https://komarev.com/ghpvc/?username=Anshuman-git-code&label=Profile%20Views&color=60A5FA&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Anshuman-git-code?label=Followers&style=for-the-badge&color=60A5FA" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Anshuman-git-code?affiliations=OWNER&label=Stars&style=for-the-badge&color=60A5FA" alt="GitHub Stars" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving Hand"/> 
+  <em><b>Thanks for visiting my profile! Let's build something amazing together!</b></em>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35"> Daily Motivation
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Discipline%20outperforms%20motivation.%20Master%20your%20routine%2C%20own%20your%20future.&author=Anshuman" alt="Motivational Quote" />
+  <img src="https://komarev.com/ghpvc/?username=Anshuman-git-code&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%" alt="footer gif">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
-</div>
-
-<div align="center">
-  <h3>🙏 Thank You for Visiting!</h3>
-  <p><em>⭐️ From <a href="https://github.com/Anshuman-git-code">Anshuman-git-code</a> with ❤️</em></p>
-  <p><strong>🌟 If you found this profile interesting, please give it a star!</strong></p>
+  <i>⭐ From [Anshuman-git-code](https://github.com/Anshuman-git-code)</i>
 </div>
