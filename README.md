@@ -144,17 +144,6 @@ education: B.Tech CSE @ ITER, SOA University (2022-2026)
 - Created videos using Premiere Pro, DaVinci Resolve, Audacity
 - Boosted audio clarity by 95% with advanced noise reduction techniques
 
-## 🎓 Education
-
-**B.Tech - Computer Science & Engineering**  
-ITER, SOA University | 2022 - 2026
-
-**Senior Secondary, CBSE**  
-St. Xavier's High School | 2022
-
-**Secondary, CBSE**  
-DAV Public School | 2020
-
 ## 🤝 Let's Connect!
 
 <div align="center">
