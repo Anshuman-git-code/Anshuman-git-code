@@ -22,7 +22,7 @@ education: B.Tech CSE @ ITER, SOA University (2022-2026)
 - 🌱 Learning advanced **FinOps** and **GitOps** practices
 - 💡 Passionate about **Infrastructure as Code** and **Microservices Architecture**
 - 📫 Reach me at: **anshuman.mohapatra04@gmail.com**
-- 🌐 Portfolio: [Visit My Portfolio](https://anshuman-git-code.github.io/Portfolio/)
+- 🌐 Portfolio: [Visit My Portfolio](https://portfolio-streamlit.onrender.com)
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF"/>
@@ -158,7 +158,7 @@ DAV Public School | 2020
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://anshuman-git-code.github.io/Portfolio/">
+  <a href="https://portfolio-streamlit.onrender.com">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:anshuman.mohapatra04@gmail.com">
