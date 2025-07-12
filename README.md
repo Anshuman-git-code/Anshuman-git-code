@@ -10,7 +10,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **DevOps Engineer** currently pursuing B.Tech in Computer Science & Engineering at ITER, SOA University. I specialize in cloud-native technologies, container orchestration, and building scalable applications.
+```yaml
+name: Anshuman Mohapatra
+located_in: Odisha, India
+born_on: "May 6th, 2004" # 🎂 21 years of debugging life!
+current_focus: DevOps & Cloud Native Technologies
+education: B.Tech CSE @ ITER, SOA University (2022-2026)
+```
 
 - 🔭 Currently working on **Azure DevOps Migration** and **AWS Resource Management Tools**
 - 🌱 Learning advanced **FinOps** and **GitOps** practices
