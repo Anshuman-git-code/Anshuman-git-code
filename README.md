@@ -1,37 +1,47 @@
-# Hi there! 👋 I'm Anshuman Mohapatra
+# Hi there, I'm Anshuman Mohapatra! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Native+Architecture+Enthusiast;Kubernetes+%26+CI%2FCD+Expert;Always+Learning+New+Technologies" alt="Typing SVG" />
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Architect;Startup+Enthusiast+%7C+Entrepreneur;Building+Scalable+%7C+Secure+Solutions)
+
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Cloud Computing GIF"/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer GIF"/>
-</div>
+---
 
 ## 🚀 About Me
 
-```yaml
-name: Anshuman Mohapatra
-located_in: Odisha, India
-born_on: "May 6th, 2004" # 🎂 21 years of debugging life!
-current_focus: DevOps & Cloud Native Technologies
-education: B.Tech CSE @ ITER, SOA University (2022-2026)
-```
+Results-driven **DevOps Engineer** who rapidly masters emerging technologies with expertise in enterprise cloud infrastructure and microservices orchestration. Currently pursuing **B.Tech in Computer Science Engineering** while building real-world experience through innovative projects and entrepreneurial ventures.
 
-- 🔭 Currently working on **Azure DevOps Migration** and **AWS Resource Management Tools**
-- 🌱 Learning advanced **FinOps** and **GitOps** practices
-- 💡 Passionate about **Infrastructure as Code** and **Microservices Architecture**
-- 📫 Reach me at: **anshuman.mohapatra04@gmail.com**
-- 🌐 Portfolio: [Visit My Portfolio](https://portfolio-streamlit.onrender.com)
+- 🔭 **Currently Working On:** Advanced DevSecOps pipelines and AI-powered automation solutions
+- 🌱 **Learning:** AI integration in DevOps workflows and advanced Kubernetes patterns
+- 👯 **Looking to Collaborate:** Open source DevOps tools and startup innovation projects
+- 📫 **How to Reach Me:** anshuman.mohapatra04@gmail.com
+
+
+---
+
+## 🏆 Achievements & Impact
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF"/>
+
+| 🎯 **Metric** | 📊 **Achievement** |
+|:---:|:---:|
+| **Uptime** | 99.9% for production deployments |
+| **Cost Optimization** | 50%+ infrastructure savings |
+| **Deployment Speed** | 85% reduction (45min → 5min) |
+| **Microservices** | 11-service e-commerce platform |
+| **Security Scans** | Zero vulnerabilities in production |
+
 </div>
 
-## 🛠️ Tech Stack
+---
 
+## 🛠️ Tech Stack & Expertise
 ### ☁️ Cloud & DevOps
-<div align="center">
+<div align="">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -40,75 +50,107 @@ education: B.Tech CSE @ ITER, SOA University (2022-2026)
   <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  
 </div>
 
-### 💻 Programming Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-</div>
+### 🔄 **CI/CD & Automation**
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-### 🌐 Web Technologies
-<div align="center">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</div>
+### 📊 **Monitoring & Security**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+
+### 💻 **Programming & Scripting**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 ### 🤖 AI & Machine Learning
-<div align="center">
+<div align="">
   <img src="https://img.shields.io/badge/LangChain-%23121011.svg?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-%23FF6F00.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/FAISS-%23000000.svg?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
 </div>
 
+---
+
+## 🌟 Featured Projects
+
+### 🔐 [3-Tier DevSecOps Pipeline](https://github.com/Anshuman-git-code/3-Tier-DevSecOps-Project)
+> **Enterprise-grade CI/CD with integrated security**
+- 🚀 React + Node.js + MySQL application with complete automation
+- 🛡️ Comprehensive security scanning (GitLeaks, Trivy, SonarQube)
+- ☁️ AWS EKS deployment with monitoring & Slack integration
+- 📈 **Impact:** 85% deployment time reduction, zero security vulnerabilities
+
+### 🛒 [E-Commerce Microservices on EKS](https://github.com/yourusername/ecommerce-eks)
+> **11-microservice application orchestration**
+- 🏗️ Complete e-commerce platform (Stan's Robot Shop) on AWS EKS
+- ⚖️ Application Load Balancer integration with high availability
+- 💾 Persistent storage with EBS CSI driver
+- 📊 **Impact:** 99.9% uptime, production-grade scalability
+
+### 🐍 [Two-Tier Flask Multi-Platform Deployment](https://github.com/yourusername/flask-multiplatform)
+> **Docker → Kubernetes → EKS → Helm progression**
+- 🔄 Complete deployment evolution across 4 platforms
+- 📦 Helm chart packaging for enterprise deployment
+- 🔧 Multi-database integration (MySQL, Redis)
+- 🎯 **Impact:** Platform versatility demonstration
+
+### 💰 [Jenkins Log Cost Optimization](https://github.com/yourusername/jenkins-log-optimization)
+> **FinOps solution with shell scripting**
+- 📜 Shell script automation for log management
+- 💸 ELK stack to S3 migration for cost reduction
+- 🤖 Automated daily log processing with AWS CLI
+- 💰 **Impact:** 50%+ infrastructure cost savings
+
+### ☁️ [Azure DevOps Pipeline Migration](https://github.com/yourusername/azure-pipeline-migration)
+> **Cross-platform CI/CD expertise**
+- 🔄 GitHub Actions to Azure DevOps migration
+- 📦 Azure Container Registry integration
+- 🎯 Multi-microservice deployment automation
+- 🏢 **Impact:** Enterprise platform standardization
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Cloud Computing GIF"/>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-git-code&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshuman-git-code&theme=tokyonight&hide_border=true)
+
 </div>
 
-## 🏆 Featured Projects
+---
 
-### 🔄 Azure DevOps Migration – Voting App
-- **Tech Stack**: Azure DevOps, GitOps, CI/CD, Docker, Kubernetes
-- **Description**: Migrated multi-service application from GitHub Actions to Azure Pipelines with ACR + Kubernetes deployment
+## 💼 Entrepreneurial Journey & Professional Experience
 
-### 📊 AWS Resource CLI Tool
-- **Tech Stack**: Bash, AWS CLI, Shell Scripting
-- **Description**: Built an interactive Bash CLI for managing 14+ AWS services to simplify auditing
+### 🎥 **YouTube Content Creator** (2022 - 2024)
+- 👥 Built and managed 4-member content creation team
+- 📚 Produced high-quality educational/informative videos
+- 🎯 Strategic role assignment based on individual skills
+- 📈 Developed content strategy and team leadership skills
 
-### 💰 FinOps Logging Cost Optimizer
-- **Tech Stack**: FinOps, CI/CD, AWS S3, Shell
-- **Description**: Reduced Jenkins logging costs by redirecting logs to S3 with FinOps automation
+### 💻 **College Service Business** (2022 - 2024)
+- 📄 Project services for college students with consistent revenue
+- ⏰ 24/7 photocopy service operations
+- 💼 End-to-end business management and customer service
+- 🚀 Multiple revenue streams and operational efficiency
 
-### 🎬 Netflix Clone – Full Stack + K8s
-- **Tech Stack**: React, Node.js, Docker, Kubernetes, CI/CD
-- **Description**: React-Node app containerized & deployed via GitHub Actions to Kubernetes
+### 💼 Financial Consultant – HDFC Life (2023 - 2024)
+- Built communication and client management skills
+- Developed sales expertise and customer relationship management
 
-### 🧠 LangChain Chatbot API
-- **Tech Stack**: Python, Flask, LangChain, NLP
-- **Description**: Built contextual AI chatbot using Flask & LangChain with REST API backend
-
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="DevOps GIF"/>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuman-git-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-git-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+---
 
 ## 🏆 GitHub Trophies
 
@@ -116,59 +158,34 @@ education: B.Tech CSE @ ITER, SOA University (2022-2026)
   <img src="https://github-profile-trophy.vercel.app/?username=Anshuman-git-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
-## 📈 Contribution Graph
+---
+
+## 🎯 Current Goals
+
+- 🔬 **Exploring:** AI-powered DevOps automation and intelligent infrastructure management
+- 🌟 **Building:** Next-generation CI/CD solutions with integrated AI workflows  
+- 🤝 **Seeking:** Startup opportunities to combine technical expertise with business impact
+- 📚 **Learning:** Advanced Kubernetes patterns, service mesh, and cloud-native architectures
+
+---
+
+## 📫 Let's Connect!
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshuman-git-code&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
 
-## 🎯 Current Focus
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-mohapatra-a6b1b0325/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anshuman-git-code)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshuman.mohapatra04@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Spaghettifying)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Rocket GIF"/>
-</div>
-
-- 🔧 **Infrastructure as Code**: Mastering Terraform and GitOps workflows
-- ☁️ **Cloud Native**: Deepening expertise in Kubernetes and microservices
-- 💰 **FinOps**: Implementing cost optimization strategies
-- 🤖 **AI Integration**: Exploring LangChain and contextual AI applications
-- 🛡️ **Security**: Implementing secure CI/CD pipelines with SonarQube and Trivy
-
-## 🌟 Professional Experience
-
-### 💼 Financial Consultant – HDFC Life
-- Built communication and client management skills
-- Developed sales expertise and customer relationship management
-
-### 🎥 Content Creator & Editor
-- Created videos using Premiere Pro, DaVinci Resolve, Audacity
-- Boosted audio clarity by 95% with advanced noise reduction techniques
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://portfolio-streamlit.onrender.com">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:anshuman.mohapatra04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="tel:+917978294262">
-    <img src="https://img.shields.io/badge/Phone-%2300C853.svg?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving Hand"/> 
-  <em><b>Thanks for visiting my profile! Let's build something amazing together!</b></em>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anshuman-git-code&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐ From [Anshuman-git-code](https://github.com/Anshuman-git-code)</i>
+
+### 💡 *"Building scalable solutions, optimizing costs, and driving innovation - one commit at a time!"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anshuman-git-code&color=brightgreen&style=flat-square)
+
 </div>
