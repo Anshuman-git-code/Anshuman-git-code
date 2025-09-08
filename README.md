@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Results-driven **DevOps Engineer** who rapidly masters emerging technologies with expertise in enterprise cloud infrastructure and microservices orchestration. Currently pursuing **B.Tech in Computer Science Engineering** while building real-world experience through innovative projects and entrepreneurial ventures.
+Results-driven **DevOps Engineer** who rapidly masters emerging technologies with expertise in enterprise cloud infrastructure and microservices orchestration. Currently pursuing **B.Tech in Computer Science Engineering(2022 - present)** while building real-world experience through innovative projects and entrepreneurial ventures.
 
 - 🔭 **Currently Working On:** Advanced DevSecOps pipelines and AI-powered automation solutions
 - 🌱 **Learning:** AI integration in DevOps workflows and advanced Kubernetes patterns
