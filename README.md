@@ -130,25 +130,6 @@ Results-driven **DevOps Engineer** who rapidly masters emerging technologies wit
 
 </div>
 
----
-
-## 💼 Entrepreneurial Journey & Professional Experience
-
-### 🎥 **YouTube Content Creator** (2022 - 2024)
-- 👥 Built and managed 4-member content creation team
-- 📚 Produced high-quality educational/informative videos
-- 🎯 Strategic role assignment based on individual skills
-- 📈 Developed content strategy and team leadership skills
-
-### 💻 **College Service Business** (2022 - 2024)
-- 📄 Project services for college students with consistent revenue
-- ⏰ 24/7 photocopy service operations
-- 💼 End-to-end business management and customer service
-- 🚀 Multiple revenue streams and operational efficiency
-
-### 💼 Financial Consultant – HDFC Life (2023 - 2024)
-- Built communication and client management skills
-- Developed sales expertise and customer relationship management
 
 ---
 
