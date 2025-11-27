@@ -16,7 +16,7 @@
 
 **AWS Cloud Engineer(Team Lead)** at F13 Technologies | Results-driven DevOps Engineer with expertise in enterprise cloud infrastructure, microservices orchestration, and CI/CD automation. Currently pursuing **B.Tech in Computer Science Engineering** (2022 - Present) at ITER, SOA University while leading production-grade AWS serverless application deployments.
 
-- 🔭 **Currently Working On:** Production-grade serverless applications with AWS Lambda, AI-powered resume parsing systems
+- 🔭 **Currently Working On:** Production-grade serverless applications
 - 🌱 **Learning:** Advanced AWS services, Generative AI integration, Cloud-native architecture patterns
 - 👯 **Looking to Collaborate:** Open source DevOps tools, serverless projects, and AI/ML integrations
 - 📫 **How to Reach Me:** anshuman.mohapatra04@gmail.com
@@ -233,7 +233,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-mohapatra-a6b1b0325/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anshuman-git-code)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshumanmohapatra566@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshuman.mohapatra04@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://anshuman-mohapatra.com)
 
 </div>
