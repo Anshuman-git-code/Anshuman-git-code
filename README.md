@@ -29,7 +29,7 @@
 
 | 🎯 **Metric** | 📊 **Achievement** |
 |:---:|:---:|
-| **Team Leadership** | Leading 4 engineers, 40% velocity improvement |
+| **Team Leadership** | Led 4 engineers, 40% velocity improvement |
 | **AWS Certifications** | 6 certifications in first month |
 | **Deployment Speed** | 85% reduction in deployment time |
 | **System Uptime** | 99.9% for production applications |
@@ -104,53 +104,6 @@
   <img src="https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda"/>
   <img src="https://img.shields.io/badge/Serverless-%23FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"/>
 </div>
-
----
-
-## 🌟 Featured Projects
-
-### ☁️ [Cloud File Storage System](https://github.com/Anshuman-git-code/AWS_Drive_Storage)
-> **Production-ready serverless file management with AWS**
-- 🚀 6 Lambda functions for upload, download, sharing, authentication
-- 🔐 AWS Cognito authentication with presigned URL-based secure sharing
-- ⚡ Sub-300ms API response times with real-time dashboard
-- 💰 **Impact:** ~$0.01 cost per operation, unlimited concurrent users
-
-### 🤖 [Resume Parser & Job Matching System](https://github.com/Anshuman-git-code/Resume-Parser-Skill-Matcher)
-> **AI-powered resume screening with AWS Textract**
-- 📄 AWS Textract integration for 99% accurate text extraction
-- 🎯 Intelligent skill parsing engine (50+ skills) with job matching
-- 🔄 Event-driven architecture using S3 triggers and DynamoDB Streams
-- 💼 **Impact:** 90% reduction in manual effort, $30K-100K annual savings potential
-
-### 🔐 [3-Tier DevSecOps Pipeline](https://github.com/Anshuman-git-code/3-Tier-DevSecOps-Project)
-> **Enterprise-grade CI/CD with integrated security**
-- 🛡️ Comprehensive security scanning (SonarQube, Trivy)
-- 🔄 GitOps deployment using ArgoCD for automated rollouts
-- 📈 **Impact:** 85% deployment time reduction, 99% system uptime
-
-### 🐍 [2-Tier Flask Multi-Platform Deployment](https://github.com/Anshuman-git-code/two-tier-app-eks-deployment)
-> **Containerization journey: Docker → Kubernetes → AWS EKS → Helm**
-- 📦 Complete deployment evolution across multiple platforms
-- ⚙️ HPA, PVC, ConfigMaps/Secrets for production configuration
-- 🎯 **Impact:** 99.9% uptime, 80% reduction in deployment complexity
-
-### 💰 [FinOps - Cloud Cost Optimization](https://github.com/Anshuman-git-code/FinOps-Reduce-cloud-cost-for-CI-CD-logging)
-> **Intelligent log management with 50%+ cost savings**
-- 📜 Shell script automation for log lifecycle management
-- 💸 ELK stack to S3 migration with compliance maintenance
-- 💰 **Impact:** $500/month → $23/month infrastructure costs
-
-### 🛒 [E-Commerce Three-Tier Application on AWS EKS](https://github.com/Anshuman-git-code/E-Commerce-Three-Tier-Application-Deploy-on-AWS-EKS)
-> **11-microservice production-grade application**
-- 🏗️ Complete e-commerce platform (Stan's Robot Shop) on Amazon EKS
-- ⚖️ AWS Application Load Balancer with high availability
-- 📊 **Impact:** Handles 1000+ concurrent users, enterprise scalability
-
-### 🛠️ [AWS Resource CLI Tool](https://github.com/Anshuman-git-code/Shell_AWS_Resource_Manegment)
-> **Automated resource inventory across 14+ AWS services**
-- 🔍 Shell script for EC2, RDS, S3, IAM, Lambda, CloudWatch inventory
-- ⚡ **Impact:** 90% reduction in auditing time (70 min → 70 sec)
 
 ---
 
