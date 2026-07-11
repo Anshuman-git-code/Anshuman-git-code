@@ -1,202 +1,163 @@
-# Hi there, I'm Anshuman Mohapatra! 👋
-
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer+%7C+DevOps+Lead;Building+Scalable+Cloud+Solutions;AI-Powered+Serverless+Applications)
-
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Cloud Computing GIF"/>
-</div>
-
----
-
-## 🚀 About Me
-
-**AWS Cloud Engineer(Team Lead)** at F13 Technologies | Results-driven DevOps Engineer with expertise in enterprise cloud infrastructure, microservices orchestration, and CI/CD automation. Currently pursuing **B.Tech in Computer Science Engineering** (2022 - Present) at ITER, SOA University while leading production-grade AWS serverless application deployments.
-
-- 🔭 **Currently Working On:** Production-grade serverless applications
-- 🌱 **Learning:** Advanced AWS services, Generative AI integration, Cloud-native architecture patterns
-- 👯 **Looking to Collaborate:** Open source DevOps tools, serverless projects, and AI/ML integrations
-- 📫 **How to Reach Me:** anshuman.mohapatra04@gmail.com
-
----
-
-## 🏆 Achievements & Impact
-
 <div align="center">
 
-| 🎯 **Metric** | 📊 **Achievement** |
-|:---:|:---:|
-| **Team Leadership** | Led 4 engineers, 40% velocity improvement |
-| **AWS Certifications** | 6 certifications in first month |
-| **Deployment Speed** | 85% reduction in deployment time |
-| **System Uptime** | 99.9% for production applications |
-| **Cost Optimization** | 50%+ infrastructure cost savings |
-| **API Performance** | Sub-300ms response times |
-| **Automation Impact** | 95% reduction in manual screening |
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1500&color=36BCF7&center=true&vCenter=true&width=650&lines=Cloud+Engineer;I+design+systems+before+I+choose+services.;Business+Requirements+%E2%86%92+Architecture+%E2%86%92+AWS" alt="Typing SVG" />
+
+**Anshuman Mohapatra**
+Cloud Engineer · AWS · Serverless · Infrastructure as Code
+
+[GitHub](https://github.com/Anshuman-git-code) · [Portfolio](https://anshuman-git-code.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/anshuman-mohapatra-a6b1b0325/) · [Email](mailto:anshuman.mohapatra04@gmail.com)
 
 </div>
+
+<br>
+
+## About
+
+I don't start by picking an AWS service. I start by understanding the business problem the system is supposed to solve, then I work forward — actors, capabilities, access patterns, architecture — and only then do the services get chosen.
+
+That approach came from repetition, not theory. Across four production-oriented serverless systems, the pattern that mattered most wasn't *which* AWS service I used, it was *why* — what business requirement it satisfied and what trade-off it introduced. A dashboard that shows total clicks isn't interesting. The decision to let a redirect succeed even when its analytics update fails, because a user should never see a broken link over a tracking hiccup, is.
+
+I'm currently completing my B.Tech in Computer Science Engineering at ITER, SOA University, and was selected as Team Lead during my cloud engineering internship at F13 Technologies for how I broke down and owned architecture decisions across a team.
+
+<br>
+
+## How I Think
+
+```
+Business Problem
+      ↓
+Business Requirements
+      ↓
+Actors & Capabilities
+      ↓
+Architecture
+      ↓
+Engineering Decisions & Trade-offs
+      ↓
+AWS Services
+      ↓
+Infrastructure as Code
+      ↓
+Implementation
+      ↓
+Production Improvements
+```
+
+AWS shows up two-thirds of the way down that list — deliberately. It's the last decision, not the first.
+
+<br>
+
+## Engineering Principles
+
+| Principle | What it means to me |
+|---|---|
+| **Business First** | The architecture serves a requirement — it doesn't exist for its own sake |
+| **Design Before Implementation** | Access patterns and data models get worked out before a single table is created |
+| **Serverless by Default** | Compute should scale with demand, not sit idle waiting for it |
+| **Least Privilege** | Every Lambda gets its own role, scoped to exactly what it touches |
+| **Cost Awareness** | Every architectural choice has a dollar figure — I track it, not guess it |
+| **Infrastructure as Code** | If it isn't reproducible from a repo, it isn't done |
+| **Maintainability** | One responsibility per function, per service — nothing does two jobs |
+
+<br>
+
+## Featured Projects
+
+### EventSphere — Event-Driven Serverless Ticketing Platform
+*Flagship project*
+
+The center of this system isn't the event — it's the registration. Every downstream action (ticket generation, delivery, attendance tracking) exists because a registration succeeded, and that insight shaped the whole architecture.
+
+Registration is decoupled from ticket generation using EventBridge: the Registration Lambda writes to DynamoDB and returns success immediately, while a separate Lambda handles QR generation, S3 storage, and delivery through SES — asynchronously, without making the user wait. Three DynamoDB tables (Events, Registrations, Tickets) are modeled around access patterns with Global Secondary Indexes rather than designed table-first. Auth runs on Cognito JWTs with role-based authorization, least-privilege IAM, and pre-signed URLs so ticket files are never public.
+
+`Cognito` `EventBridge` `DynamoDB` `Lambda` `API Gateway` `CloudFront` `SES` `Terraform`
+
+[Repository](https://github.com/Anshuman-git-code/Event-Ticketing-System-V3.git) · [Live Demo](https://d2xd67ws8yeqrk.cloudfront.net/)
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+### LinkForge Pro — Serverless URL Shortener & Analytics Platform
 
-### ☁️ Cloud & Infrastructure
-<div align="">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda"/>
-  <img src="https://img.shields.io/badge/AWS%20S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
-  <img src="https://img.shields.io/badge/AWS%20EKS-%23FF9900.svg?style=for-the-badge&logo=amazon-eks&logoColor=white" alt="EKS"/>
-  <img src="https://img.shields.io/badge/DynamoDB-%234053D6.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
-  <img src="https://img.shields.io/badge/API%20Gateway-%23FF4F8B.svg?style=for-the-badge&logo=amazonapigateway&logoColor=white" alt="API Gateway"/>
-  <img src="https://img.shields.io/badge/AWS%20Cognito-%23DD344C.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cognito"/>
-  <img src="https://img.shields.io/badge/CloudFormation-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CloudFormation"/>
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-</div>
+Split into three independently deployable capabilities — link creation, redirection, and administration — instead of one large function. The redirect path is intentionally prioritized over the analytics path: if a click-count update fails, the user is still redirected. Analytics should never be allowed to break the core product.
 
-### 🐳 Containers & Orchestration
-<div align="">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-  <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
-</div>
+DynamoDB uses the short code as a hash key for single-digit-millisecond lookups, and the whole platform is deployed through CloudFormation for reproducibility.
 
-### 🔄 CI/CD & Automation
-<div align="">
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
-  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-</div>
+`Lambda` `API Gateway` `DynamoDB` `S3` `CloudFormation`
 
-### 📊 Monitoring & Security
-<div align="">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube"/>
-  <img src="https://img.shields.io/badge/Trivy-%231904DA.svg?style=for-the-badge&logo=aquasecurity&logoColor=white" alt="Trivy"/>
-</div>
-
-### 💻 Programming & Scripting
-<div align="">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</div>
-
-### 🗄️ Databases
-<div align="">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/DynamoDB-%234053D6.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</div>
-
-### 🤖 AI & Serverless
-<div align="">
-  <img src="https://img.shields.io/badge/AWS%20Textract-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Textract"/>
-  <img src="https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda"/>
-  <img src="https://img.shields.io/badge/Serverless-%23FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"/>
-</div>
+[Repository](https://github.com/Anshuman-git-code/Linkforge_Pro.git) · [Live Demo](http://url-shortener-infra-frontend-690081480550.s3-website-us-east-1.amazonaws.com/)
 
 ---
 
-## 📜 AWS Certifications
+### Cloud-Native Resume Processing & Candidate Matching Platform
 
-<div align="center">
+A four-stage event-driven pipeline — upload, Textract extraction, skill parsing, job matching — where each stage triggers the next through S3 events rather than one service handling every step sequentially. Textract handles document intelligence so the parsing logic never has to touch raw PDF structure directly, and each stage can evolve or scale independently of the others.
 
-| Certification | Issued | Badge |
-|:---|:---:|:---:|
-| **AWS Cloud Economics** | Oct 2025 | ✅ |
-| **AWS Technical Essentials** | Oct 2025 | ✅ |
-| **AWS Containers (Technical)** | Oct 2025 | ✅ |
-| **AWS Digital Sovereignty** | Oct 2025 | ✅ |
-| **AWS Migration Essentials** | Oct 2025 | ✅ |
-| **AWS Generative AI Essentials** | Oct 2025 | ✅ |
+`Textract` `Lambda` `S3` `DynamoDB Streams` `API Gateway`
 
-</div>
+[Repository](https://github.com/Anshuman-git-code/Resume-Parser-Skill-Matcher.git) · [Live Demo](http://resume-parser-bucket-main-anshuman.s3-website.ap-south-1.amazonaws.com/frontend/index.html)
 
 ---
 
-## 💼 Professional Experience
+### Serverless Media Processing Platform
 
-### AWS Cloud Engineer Intern (Team Lead) | F13 Technologies
-**Sep 2024 - Present | Remote**
+The core decision here was keeping Lambda out of the file transfer path entirely. The frontend uploads directly to S3 using a pre-signed URL that a lightweight Lambda authorizes — Lambda grants permission, S3 does the heavy lifting. An S3 `ObjectCreated` event then triggers image processing into three resolutions, stored in a separate output bucket for cleaner IAM boundaries. All 30 resources are provisioned through Terraform.
 
-- 👨‍💼 Led a cross-functional team of 4 engineers in building and deploying scalable AWS serverless solutions, improving overall team delivery and coordination through effective sprint planning and task delegation.
-- 🤖 Designed and implemented high-volume, event-driven processing workflows using AWS Lambda, API Gateway, S3, DynamoDB, and SQS, achieving high accuracy, reduced manual effort, and significant operational cost savings.
-- ☁️ Built secure backend components with authentication, encryption standards, and best practices for cloud data handling, maintaining low-latency APIs (<200ms) and reliable uptime (99.9%).
-- 📚 Strengthened cloud engineering expertise through hands-on work and advanced training across domains such as cloud architecture, containerization, migrations, cost optimization, governance, and generative AI on AWS.
-- 🔧 Delivered Infrastructure as Code (IaC) solutions using CloudFormation and established CI/CD pipelines with automated testing and security checks, enabling frequent and stable production deployments.
+`S3` `Lambda` `API Gateway` `Terraform` `IAM`
 
----
+[Repository](https://github.com/Anshuman-git-code/serverless-image-optimizer.git) · [Live Demo](http://image-pipeline-frontend-man.s3-website.ap-south-1.amazonaws.com/)
 
-## 📈 GitHub Stats
+<br>
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+## Current Focus
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-git-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+I'd rather be upfront about this than inflate it. Right now I'm deepening:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshuman-git-code&theme=tokyonight&hide_border=true)
+- **Python** — moving from scripting Lambda handlers to writing production-grade, tested code
+- **Kubernetes** — patterns beyond deployments and services: HPA tuning, ingress design, real workload orchestration
+- **Linux fundamentals** — the layer underneath the managed services I've been building on
+- **Observability** — structured logging, tracing, and alerting, not just dashboards after the fact
 
-</div>
+<br>
 
----
+## Technology Stack
 
-## 🏆 GitHub Trophies
+**Cloud** — AWS (Lambda, API Gateway, EventBridge, DynamoDB, S3, Cognito, SES, CloudWatch, IAM, VPC, Route53, Textract, EC2, ECS, EKS)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anshuman-git-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies"/>
-</div>
+**Infrastructure as Code** — Terraform, CloudFormation, AWS CDK
 
----
+**Containers** — Docker, Kubernetes, Helm, ArgoCD
 
-## 🎯 Current Focus
+**CI/CD** — Jenkins, GitHub Actions
 
-- 🔬 **Exploring:** AI-powered DevOps automation and serverless architectures
-- 🌟 **Building:** Next-generation cloud-native solutions with integrated AI workflows  
-- 🤝 **Seeking:** Opportunities to combine technical expertise with business impact
-- 📚 **Learning:** Advanced AWS services, Kubernetes patterns, and event-driven architectures
+**Monitoring** — CloudWatch, Prometheus, Grafana, ELK Stack
 
----
+**Programming** — Python, JavaScript, Bash, Java, C++
 
-## 📚 Technical Skills Summary
+<br>
 
-**Cloud & DevOps:** AWS (Lambda, S3, EKS, EC2, DynamoDB, Textract, Cognito, CloudFormation, API Gateway, VPC, IAM), Azure DevOps, Docker, Kubernetes (Deployments, Services, Ingress, HPA, PVC, ConfigMaps, Secrets), Terraform, ArgoCD, Jenkins, GitHub Actions, Helm, Ansible
-
-**Infrastructure & Networking:** Linux Administration (Ubuntu, Amazon Linux), VPC, Subnets, Security Groups, NAT Gateway, Route Tables, Load Balancers
-
-**Programming:** Python (Flask, Lambda), JavaScript, Shell Scripting (Bash), Java, C++
-
-**Tools & Practices:** Git, CI/CD, GitOps, Infrastructure as Code, FinOps, SonarQube, Trivy, Prometheus, Grafana
-
----
-
-## 📫 Let's Connect!
+## GitHub Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-mohapatra-a6b1b0325/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anshuman-git-code)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshuman.mohapatra04@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://anshuman-git-code.github.io/Portfolio/)
+<img src="https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-git-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
 
 </div>
 
----
+<br>
+
+## Connect
 
 <div align="center">
 
-### 💡 *"Building scalable cloud solutions, automating workflows, and driving innovation - one commit at a time!"*
+[LinkedIn](https://www.linkedin.com/in/anshuman-mohapatra-a6b1b0325/) · [Portfolio](https://anshuman-git-code.github.io/Portfolio/) · [Email](mailto:anshuman.mohapatra04@gmail.com) · [GitHub](https://github.com/Anshuman-git-code)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anshuman-git-code&color=brightgreen&style=flat-square)
+</div>
+
+<br>
+
+<div align="center">
+
+*"Good cloud architecture isn't about moving data through more services — it's about moving data as little as possible while moving permissions intelligently."*
 
 </div>
