@@ -139,8 +139,13 @@ I'd rather be upfront about this than inflate it. Right now I'm deepening:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-git-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshuman-git-code&theme=tokyonight&hide_border=true)
+
+
+</div>
 
 </div>
 
