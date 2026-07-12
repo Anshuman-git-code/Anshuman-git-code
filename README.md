@@ -26,9 +26,27 @@ Currently completing B.Tech in Computer Science Engineering at ITER, SOA Univers
 
 ---
 
-## How I Think
+## 🧠 How I Think
 
-Business Problem ↓ Business Requirements ↓ Actors & Capabilities ↓ Architecture ↓ Engineering Decisions & Trade-offs ↓ AWS Services ↓ Infrastructure as Code ↓ Implementation ↓ Production Improvements
+```text
+Business Problem
+      ↓
+Business Requirements
+      ↓
+Actors & Capabilities
+      ↓
+Architecture
+      ↓
+Engineering Decisions & Trade-offs
+      ↓
+AWS Services Selection
+      ↓
+Infrastructure as Code (Terraform)
+      ↓
+Implementation
+      ↓
+Production Improvements
+```
 
 
 AWS shows up two-thirds of the way down that list — deliberately. It's the last decision, not the first.
