@@ -26,7 +26,7 @@ Currently completing B.Tech in Computer Science Engineering at ITER, SOA Univers
 
 ---
 
-## 🧠 How I Think
+## How I Think
 
 ```text
 Business Problem
