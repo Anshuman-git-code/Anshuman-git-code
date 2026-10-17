@@ -2,6 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1500&color=FF9900&center=true&vCenter=true&width=700&lines=Cloud+Engineer;Every+system+starts+with+the+business+problem.;Business+Requirements+%E2%86%92+Architecture+%E2%86%92+AWS" alt="Typing SVG" />
 
+
 # Anshuman Mohapatra
 
 **Cloud Engineer · AWS · Serverless · Infrastructure as Code**
@@ -13,7 +14,17 @@
 </div>
 
 ---
+## GitHub Activity
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=FF9900&icon_color=FF9900)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshuman-git-code&theme=tokyonight&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FF9900)
+
+</div>
+
+---
 ## About
 
 Every system starts with the business problem. From there the work moves forward — actors, capabilities, access patterns, architecture — and only then do the services get chosen.
@@ -124,42 +135,19 @@ The core decision: **keep Lambda out of the file transfer path entirely**. The f
 AWS — Lambda · API Gateway · EventBridge · DynamoDB · S3 · Cognito · SES · CloudWatch · IAM · VPC · Route 53 · Textract · EC2 · ECS · EKS
 
 **Infrastructure as Code**
-Terraform · CloudFormation · AWS CDK
+Terraform · CloudFormation
 
 **Containers**
 Docker · Kubernetes · Helm · ArgoCD
 
 **CI/CD**
-GitHub Actions · Jenkins
+GitHub Actions · Jenkins · GitLab CI 
 
 **Monitoring**
 CloudWatch · Prometheus · Grafana · ELK Stack
 
 **Programming**
-Python · JavaScript · Bash · Java · C++
-
----
-
-## Current Focus
-
-Being upfront rather than inflating it. Right now I'm deepening:
-
-- **Python** — moving from scripting Lambda handlers to writing production-grade, tested code
-- **Kubernetes** — patterns beyond deployments and services: HPA tuning, ingress design, real workload orchestration
-- **Linux fundamentals** — the layer underneath the managed services I've been building on
-- **Observability** — structured logging, tracing, and alerting, not just dashboards after the fact
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=FF9900&icon_color=FF9900)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshuman-git-code&theme=tokyonight&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FF9900)
-
-</div>
+Python · JavaScript · TypeScript · Bash 
 
 ---
 
