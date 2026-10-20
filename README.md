@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1500&color=FF9900&center=true&vCenter=true&width=700&lines=Cloud+Engineer;Every+system+starts+with+the+business+problem.;Business+Requirements+%E2%86%92+Architecture+%E2%86%92+AWS" alt="Typing SVG" />
 
-
 # Anshuman Mohapatra
 
 **Cloud Engineer · AWS · Serverless · Infrastructure as Code**
@@ -14,17 +13,25 @@
 </div>
 
 ---
-## GitHub Activity
+
+### 📊 Engineering Activity & Metrics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=FF9900&icon_color=FF9900)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anshuman-git-code&theme=tokyonight" alt="GitHub Profile Details" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=FF9900&icon_color=FF9900&text_color=94A3B8" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuman-git-code&theme=tokyonight&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&background=1A1B27" alt="GitHub Streak" height="175" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshuman-git-code&theme=tokyonight&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FF9900)
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-git-code&layout=compact&theme=tokyonight&hide_border=true&title_color=FF9900&text_color=94A3B8&langs_count=8&hide=html" alt="Top Languages Expanded" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anshuman-git-code&theme=tokyonight" alt="Repos Per Language" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anshuman-git-code&theme=tokyonight" alt="Most Commit Language" height="175" />
 
 </div>
 
 ---
+
 ## About
 
 Every system starts with the business problem. From there the work moves forward — actors, capabilities, access patterns, architecture — and only then do the services get chosen.
@@ -156,3 +163,163 @@ Python · JavaScript · TypeScript · Bash
 *"Good cloud architecture is about moving data as little as possible while moving permissions intelligently."*
 
 </div>
+
+---
+
+## 📈 Extended Telemetry & Analytics
+
+<details>
+<summary><b>🔍 Expand to view deep-dive GitHub activity, milestones, code telemetry & historical records</b></summary>
+<br/>
+
+<div align="center">
+
+  <!-- ========================================== -->
+  <!-- 1. LIVE PROFILE VISITOR & REPO TELEMETRY   -->
+  <!-- ========================================== -->
+  <h4>👀 Live Profile Telemetry & Traffic</h4>
+  <p><i>Real-time profile views, network followers, and global ecosystem interaction</i></p>
+  <img src="https://komarev.com/ghpvc/?username=Anshuman-git-code&style=flat-square&color=FF9900&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Anshuman-git-code?label=FOLLOWERS&style=flat-square&color=FF9900&logo=github&logoColor=white" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Anshuman-git-code?label=TOTAL+STARS+EARNED&style=flat-square&color=FF9900&logo=github&logoColor=white" alt="GitHub Total Stars" />
+
+  <br/><br/>
+  <hr style="border: 0.5px solid #24283b; width: 85%;" />
+  <br/>
+
+  <!-- ========================================== -->
+  <!-- 2. CORE GITHUB STATS & STREAK COUNTERS    -->
+  <!-- ========================================== -->
+  <h4>⚡ Core Contribution & Streak Telemetry</h4>
+  <p><i>Aggregated commits, pull requests, issue resolutions, and longest active streak records</i></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=FF9900&icon_color=FF9900&text_color=94A3B8" alt="GitHub Stats Summary" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuman-git-code&theme=tokyonight&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&background=1A1B27" alt="GitHub Streak Stats" height="175" />
+
+  <br/><br/>
+  <hr style="border: 0.5px solid #24283b; width: 85%;" />
+  <br/>
+
+  <!-- ========================================== -->
+  <!-- 3. EXPANDED REPO & PR/REVIEW RESOLUTION    -->
+  <!-- ========================================== -->
+  <h4>📊 Repository & Review Resolution Telemetry</h4>
+  <p><i>Code reviews, merged pull requests, and multi-repository interaction metrics</i></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshuman-git-code&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=FF9900&icon_color=FF9900&text_color=94A3B8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Expanded Repository Details" height="185" />
+
+  <br/><br/>
+  <hr style="border: 0.5px solid #24283b; width: 85%;" />
+  <br/>
+
+  <!-- ========================================== -->
+  <!-- 4. GITHUB TROPHIES & MILESTONES            -->
+  <!-- ========================================== -->
+  <h4>🏆 Milestone Achievements & Trophies</h4>
+  <p><i>Badges earned for commit consistency, repository ownership, stars, and PR milestones</i></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anshuman-git-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7" alt="GitHub Trophies" />
+
+  <br/><br/>
+  <hr style="border: 0.5px solid #24283b; width: 85%;" />
+  <br/>
+
+  <!-- ========================================== -->
+  <!-- 5. CODEBASE COMPOSITION & LANGUAGES        -->
+  <!-- ========================================== -->
+  <h4>💻 Codebase Composition & Language Weight</h4>
+  <p><i>Distribution of primary languages, framework files, and scripts across public repos</i></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-git-code&layout=compact&theme=tokyonight&hide_border=true&title_color=FF9900&text_color=94A3B8&langs_count=8&hide=html" alt="Top Languages Expanded" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anshuman-git-code&theme=tokyonight" alt="Repos Per Language" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anshuman-git-code&theme=tokyonight" alt="Most Commit Language" height="180" />
+
+  <br/><br/>
+  <hr style="border: 0.5px solid #24283b; width: 85%;" />
+  <br/>
+
+  <!-- ========================================== -->
+  <!-- 6. CODE TIME & PRODUCTIVITY HABITS         -->
+  <!-- ========================================== -->
+  <h4>⏱️ Productivity Habits & Coding Time Distribution</h4>
+  <p><i>Analysis of active commit hours, days of the week, and development cadence</i></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anshuman-git-code&theme=tokyonight&utcOffset=5.5" alt="Productive Time Breakdown" height="185" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anshuman-git-code&theme=tokyonight" alt="GitHub Profile Details" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Anshuman-git-code&theme=tokyonight&hide_border=true&title_color=FF9900&icon_color=FF9900&text_color=94A3B8&layout=compact" alt="WakaTime Stats" height="185" />
+
+  <br/><br/>
+  <hr style="border: 0.5px solid #24283b; width: 85%;" />
+  <br/>
+
+  <!-- ========================================== -->
+  <!-- 7. DYNAMIC VELOCITY CURVE & HEATMAPS       -->
+  <!-- ========================================== -->
+  <h4>📉 30-Day Dynamic Commit Velocity Graph</h4>
+  <p><i>Continuous contribution density with TokyoNight area rendering</i></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshuman-git-code&theme=tokyo_night&hide_border=true&color=FF9900&line=FF9900&point=FFFFFF&area=true&hide_title=false" alt="Activity Graph" width="95%" />
+
+  <br/><br/>
+
+  <h4>🗓️ Annual Commit Cadence Heatmap</h4>
+  <p><i>Interactive daily timeline with full GitHub calendar visualization</i></p>
+  <img src="https://ghchart.rshah.org/FF9900/Anshuman-git-code" alt="Commit Calendar" width="95%" />
+
+  <br/><br/>
+  <hr style="border: 0.5px solid #24283b; width: 85%;" />
+  <br/>
+
+  <!-- ========================================== -->
+  <!-- 8. 3D ISOMETRIC / VOLUMETRIC LANDSCAPE     -->
+  <!-- ========================================== -->
+  <h4>🧊 3D Contribution Landscape</h4>
+  <p><i>Volumetric view of commit density across historical intervals</i></p>
+  <img src="https://github-contributions-api.deno.dev/Anshuman-git-code.svg?scheme=tokyonight&no-bg=true" alt="3D Contribution Graph" width="95%" />
+
+  <br/><br/>
+  <hr style="border: 0.5px solid #24283b; width: 85%;" />
+  <br/>
+
+  <!-- ========================================== -->
+  <!-- 9. REAL-TIME ACTIVITY LOG & EVENT STREAM   -->
+  <!-- ========================================== -->
+  <h4>⚡ Recent GitHub Events & Log Stream</h4>
+  <p><i>Real-time activity log showing pushes, branches created, and releases</i></p>
+  <img src="https://activity-graph.vercel.app/api?username=Anshuman-git-code&theme=tokyonight&hide_border=true&title_color=FF9900&custom_title=Latest%20Developer%20Stream" alt="Developer Activity Log" width="90%" />
+
+  <br/><br/>
+  <hr style="border: 0.5px solid #24283b; width: 85%;" />
+  <br/>
+
+  <!-- ========================================== -->
+  <!-- 10. REPOSITORY SPOTLIGHT & HIGH-IMPACT PINS-->
+  <!-- ========================================== -->
+  <h4>⭐ Pinned Project Architectures & Live Metrics</h4>
+  <p><i>Real-time star tracking, branch states, and fork counts across key cloud systems</i></p>
+  <a href="https://github.com/Anshuman-git-code/Event-Ticketing-System-V3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshuman-git-code&repo=Event-Ticketing-System-V3&theme=tokyonight&hide_border=true&title_color=FF9900&icon_color=FF9900&text_color=94A3B8" alt="EventSphere Pin" />
+  </a>
+  <a href="https://github.com/Anshuman-git-code/Linkforge_Pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshuman-git-code&repo=Linkforge_Pro&theme=tokyonight&hide_border=true&title_color=FF9900&icon_color=FF9900&text_color=94A3B8" alt="LinkForge Pin" />
+  </a>
+  <br/>
+  <a href="https://github.com/Anshuman-git-code/Resume-Parser-Skill-Matcher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshuman-git-code&repo=Resume-Parser-Skill-Matcher&theme=tokyonight&hide_border=true&title_color=FF9900&icon_color=FF9900&text_color=94A3B8" alt="Resume Parser Pin" />
+  </a>
+  <a href="https://github.com/Anshuman-git-code/serverless-image-optimizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshuman-git-code&repo=serverless-image-optimizer&theme=tokyonight&hide_border=true&title_color=FF9900&icon_color=FF9900&text_color=94A3B8" alt="Image Optimizer Pin" />
+  </a>
+
+  <br/><br/>
+  <hr style="border: 0.5px solid #24283b; width: 85%;" />
+  <br/>
+
+  <!-- ========================================== -->
+  <!-- 11. INFRASTRUCTURE & TOOLING BADGE MATRIX  -->
+  <!-- ========================================== -->
+  <h4>🏷️ Infrastructure & Tooling Footprint</h4>
+  <p><i>Ecosystem technologies deployed across repositories</i></p>
+  <img src="https://img.shields.io/badge/AWS_Cloud-Lambda_·_EventBridge_·_DynamoDB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Footprint" />
+  <img src="https://img.shields.io/badge/IaC-Terraform_·_CloudFormation-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="IaC Footprint" />
+  <img src="https://img.shields.io/badge/Orchestration-Docker_·_Kubernetes-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Containers" />
+
+</div>
+
+</details>
+
+<br/>
