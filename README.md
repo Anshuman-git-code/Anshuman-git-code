@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1500&color=FF9900&center=true&vCenter=true&width=700&lines=Cloud+Engineer;Every+system+starts+with+the+business+problem.;Business+Requirements+%E2%86%92+Architecture+%E2%86%92+AWS" alt="Typing SVG" />
-
 # Anshuman Mohapatra
 
-**Cloud Engineer · AWS · Serverless · Infrastructure as Code**
+**Backend / Software Engineer · AWS · Serverless · Infrastructure as Code**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-anshuman.cloud-FF9900?style=flat-square&logo=google-chrome&logoColor=white)](https://anshuman-git-code.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-mohapatra-a6b1b0325/)
